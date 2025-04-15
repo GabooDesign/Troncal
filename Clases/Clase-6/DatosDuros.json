@@ -1,0 +1,275 @@
+[
+  {
+    "profes": "Castro Meza, Ricardo",
+    "titulados": 1,
+    "graduados": 1,
+    "porcentajes": 100,
+    "notas": 7
+  },
+  {
+    "profes": "Silva Roquefort, Rebeca",
+    "titulados": 1,
+    "graduados": 1,
+    "porcentajes": 100,
+    "notas": 7
+  },
+  {
+    "profes": "Reyes León, Daniel",
+    "titulados": 4,
+    "graduados": 5,
+    "porcentajes": 80,
+    "notas": "5,5"
+  },
+  {
+    "profes": "Abud Carrillo, Jenny",
+    "titulados": 10,
+    "graduados": 15,
+    "porcentajes": 67,
+    "notas": "4,5"
+  },
+  {
+    "profes": "Lepe Muñoz, Juan Carlos",
+    "titulados": 2,
+    "graduados": 3,
+    "porcentajes": 67,
+    "notas": "4,5"
+  },
+  {
+    "profes": "Tapia Reyes, Mauricio",
+    "titulados": 4,
+    "graduados": 6,
+    "porcentajes": 67,
+    "notas": "4,5"
+  },
+  {
+    "profes": "Morales Mujica, María Paz",
+    "titulados": 6,
+    "graduados": 11,
+    "porcentajes": 55,
+    "notas": "3,8"
+  },
+  {
+    "profes": "Ode Saleh, Verónica",
+    "titulados": 15,
+    "graduados": 29,
+    "porcentajes": 52,
+    "notas": "3,6"
+  },
+  {
+    "profes": "Mora, Alfredo",
+    "titulados": 1,
+    "graduados": 2,
+    "porcentajes": 50,
+    "notas": "3,5"
+  },
+  {
+    "profes": "Ruiz Balart, Macarena",
+    "titulados": 1,
+    "graduados": 2,
+    "porcentajes": 50,
+    "notas": "3,5"
+  },
+  {
+    "profes": "Santibañez Boric, Mónica",
+    "titulados": 1,
+    "graduados": 2,
+    "porcentajes": 50,
+    "notas": "3,5"
+  },
+  {
+    "profes": "Vico Sánchez, Mauricio",
+    "titulados": 2,
+    "graduados": 4,
+    "porcentajes": 50,
+    "notas": "3,5"
+  },
+  {
+    "profes": "Young Araya, Mariana",
+    "titulados": 6,
+    "graduados": 12,
+    "porcentajes": 50,
+    "notas": "3,5"
+  },
+  {
+    "profes": "Cortez Orellana, Felipe",
+    "titulados": 8,
+    "graduados": 17,
+    "porcentajes": 47,
+    "notas": "3,4"
+  },
+  {
+    "profes": "Dueñas Santander, Rodrigo",
+    "titulados": 12,
+    "graduados": 26,
+    "porcentajes": 46,
+    "notas": "3,3"
+  },
+  {
+    "profes": "Gatica Ramírez, Pamela",
+    "titulados": 6,
+    "graduados": 13,
+    "porcentajes": 46,
+    "notas": "3,3"
+  },
+  {
+    "profes": "Castillo Espinoza, Eduardo",
+    "titulados": 9,
+    "graduados": 21,
+    "porcentajes": 43,
+    "notas": "3,2"
+  },
+  {
+    "profes": "Pradenas Guentherodt, Gabriela",
+    "titulados": 3,
+    "graduados": 7,
+    "porcentajes": 43,
+    "notas": "3,2"
+  },
+  {
+    "profes": "De la Sotta Lazzerini, Paola",
+    "titulados": 7,
+    "graduados": 17,
+    "porcentajes": 41,
+    "notas": "3,1"
+  },
+  {
+    "profes": "Domínguez González, Pablo",
+    "titulados": 25,
+    "graduados": 62,
+    "porcentajes": 40,
+    "notas": 3
+  },
+  {
+    "profes": "Marín Pacheco, Antonio",
+    "titulados": 4,
+    "graduados": 10,
+    "porcentajes": 40,
+    "notas": 3
+  },
+  {
+    "profes": "Soto Calquín, Leonardo",
+    "titulados": 8,
+    "graduados": 21,
+    "porcentajes": 38,
+    "notas": "2,9"
+  },
+  {
+    "profes": "Pagueguy Fenner, Sebastián",
+    "titulados": 5,
+    "graduados": 14,
+    "porcentajes": 36,
+    "notas": "2,8"
+  },
+  {
+    "profes": "Jacob Dazarola, Rubén",
+    "titulados": 13,
+    "graduados": 37,
+    "porcentajes": 35,
+    "notas": "2,8"
+  },
+  {
+    "profes": "Donoso Cisternas, Sergio",
+    "titulados": 7,
+    "graduados": 20,
+    "porcentajes": 35,
+    "notas": "2,8"
+  },
+  {
+    "profes": "Gómez Moya, Cristián",
+    "titulados": 3,
+    "graduados": 9,
+    "porcentajes": 33,
+    "notas": "2,7"
+  },
+  {
+    "profes": "Jove Avilés, Trinidad",
+    "titulados": 2,
+    "graduados": 6,
+    "porcentajes": 33,
+    "notas": "2,7"
+  },
+  {
+    "profes": "Maldonado de la Fuente, Felix",
+    "titulados": 3,
+    "graduados": 9,
+    "porcentajes": 33,
+    "notas": "2,7"
+  },
+  {
+    "profes": "Méndez Olivares, Iván",
+    "titulados": 2,
+    "graduados": 6,
+    "porcentajes": 33,
+    "notas": "2,7"
+  },
+  {
+    "profes": "Stange Marcus, Hans",
+    "titulados": 1,
+    "graduados": 3,
+    "porcentajes": 33,
+    "notas": "2,7"
+  },
+  {
+    "profes": "Nuñez Gutiérrez, Pablo",
+    "titulados": 4,
+    "graduados": 13,
+    "porcentajes": 31,
+    "notas": "2,6"
+  },
+  {
+    "profes": "Osses Flores, Roberto",
+    "titulados": 7,
+    "graduados": 23,
+    "porcentajes": 30,
+    "notas": "2,5"
+  },
+  {
+    "profes": "Zorzano Betancourt, Osvaldo",
+    "titulados": 3,
+    "graduados": 10,
+    "porcentajes": 30,
+    "notas": "2,5"
+  },
+  {
+    "profes": "Wechsler Pizarro, Andrea",
+    "titulados": 11,
+    "graduados": 37,
+    "porcentajes": 30,
+    "notas": "2,5"
+  },
+  {
+    "profes": "Benavides Bermúdez, Paola",
+    "titulados": 2,
+    "graduados": 7,
+    "porcentajes": 29,
+    "notas": "2,5"
+  },
+  {
+    "profes": "Perelli Soto, Bruno",
+    "titulados": 2,
+    "graduados": 7,
+    "porcentajes": 29,
+    "notas": "2,5"
+  },
+  {
+    "profes": "Perea Morales, René",
+    "titulados": 3,
+    "graduados": 11,
+    "porcentajes": 27,
+    "notas": "2,4"
+  },
+  {
+    "profes": "Molina, Raúl",
+    "titulados": 1,
+    "graduados": 4,
+    "porcentajes": 25,
+    "notas": "2,3"
+  },
+  {
+    "profes": "Lares López, Lorna",
+    "titulados": 4,
+    "graduados": 17,
+    "porcentajes": 24,
+    "notas": "2,2"
+  }
+]
