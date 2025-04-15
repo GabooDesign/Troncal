@@ -19,7 +19,7 @@
   <script>
     const alla = document.querySelector("main");
     async function datos() {
-      const consulta = await fetch("https://raw.githubusercontent.com/GabooDesign/Troncal/refs/heads/main/Clases/Clase-6/DatosDuros.json");
+      const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/troncal/refs/heads/main/clase-06/datos-durisimos.json");
       const data = await consulta.json();
       console.log(data);
       data.forEach((d)=>{
