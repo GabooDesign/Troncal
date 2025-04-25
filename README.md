@@ -1,5 +1,5 @@
 # Troncal
-Repositorio enfocado en el ramo troncal de Diseño y Visualización - FAU  
+Repositorio enfocado en el ramo troncal de Diseño y Visualización - FAU - Impartido por Profesor Felipe Cortez (faco)
 
 ## Clases  
 ### Clase 5 (8 de Abril 2025)  
