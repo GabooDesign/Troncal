@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5333;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:5.3333px;}
+	.st4{fill:#7B7B7B;}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:6.4px;}
+	.st7{font-size:7px;}
+	.st8{fill:none;stroke:#8C564B;stroke-width:0.5333;stroke-dasharray:2.1333;}
+	.st9{fill:none;stroke:#8C564B;stroke-width:0.5333;}
+	.st10{fill:#8C564B;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:0.5333;}
+	.st12{fill:#FFFFFF;stroke:#8C564B;stroke-width:0.5333;}
+	.st13{fill:none;stroke:#D62728;stroke-width:0.5333;stroke-dasharray:2.1333;}
+	.st14{fill:none;stroke:#D62728;stroke-width:0.5333;}
+	.st15{fill:#D62728;}
+	.st16{fill:none;stroke:#FF7F0E;stroke-width:0.5333;stroke-dasharray:2.1333;}
+	.st17{fill:none;stroke:#FF7F0E;stroke-width:0.5333;}
+	.st18{fill:#FF7F0E;}
+	.st19{fill:#FFFFFF;stroke:#FF7F0E;stroke-width:0.5333;}
+	.st20{fill:none;stroke:#9467BD;stroke-width:0.5333;stroke-dasharray:2.1333;}
+	.st21{fill:none;stroke:#9467BD;stroke-width:0.5333;}
+	.st22{fill:#9467BD;}
+	.st23{fill:none;stroke:#2CA02C;stroke-width:0.5333;stroke-dasharray:2.1333;}
+	.st24{fill:none;stroke:#2CA02C;stroke-width:0.5333;}
+	.st25{fill:#2CA02C;}
+	.st26{fill:#FFFFFF;stroke:#2CA02C;stroke-width:0.5333;}
+	.st27{fill:none;stroke:#1F77B4;stroke-width:0.5333;stroke-dasharray:2.1333;}
+	.st28{fill:none;stroke:#1F77B4;stroke-width:0.5333;}
+	.st29{fill:#1F77B4;}
+</style>
+<rect id="background" y="22.5" class="st0" width="800" height="355"/>
+<g id="viz" transform="translate(50,10)">
+	<g id="y_axis">
+		<path class="st1" d="M-26.5,334.3h3.5V35.6h-3.5"/>
+		<g transform="translate(0,560.5)">
+			<line class="st1" x1="-23.3" y1="-226.2" x2="-26.5" y2="-226.2"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -224.5264)" class="st2 st3">4.0</text>
+		</g>
+		<g transform="translate(0,523.1666666666666)">
+			<line class="st1" x1="-23.3" y1="-208.8" x2="-26.5" y2="-208.8"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -207.1042)" class="st2 st3">4.2</text>
+		</g>
+		<g transform="translate(0,485.8333333333333)">
+			<line class="st1" x1="-23.3" y1="-191.4" x2="-26.5" y2="-191.4"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -189.682)" class="st2 st3">4.4</text>
+		</g>
+		<g transform="translate(0,448.5000000000001)">
+			<line class="st1" x1="-23.3" y1="-174" x2="-26.5" y2="-174"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -172.2598)" class="st2 st3">4.6</text>
+		</g>
+		<g transform="translate(0,411.1666666666667)">
+			<line class="st1" x1="-23.3" y1="-156.5" x2="-26.5" y2="-156.5"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -154.8376)" class="st2 st3">4.8</text>
+		</g>
+		<g transform="translate(0,373.83333333333337)">
+			<line class="st1" x1="-23.3" y1="-139.1" x2="-26.5" y2="-139.1"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -137.4154)" class="st2 st3">5.0</text>
+		</g>
+		<g transform="translate(0,336.49999999999994)">
+			<line class="st1" x1="-23.3" y1="-121.7" x2="-26.5" y2="-121.7"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -119.9932)" class="st2 st3">5.2</text>
+		</g>
+		<g transform="translate(0,299.16666666666663)">
+			<line class="st1" x1="-23.3" y1="-104.3" x2="-26.5" y2="-104.3"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -102.571)" class="st2 st3">5.4</text>
+		</g>
+		<g transform="translate(0,261.83333333333337)">
+			<line class="st1" x1="-23.3" y1="-86.9" x2="-26.5" y2="-86.9"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -85.1488)" class="st2 st3">5.6</text>
+		</g>
+		<g transform="translate(0,224.5)">
+			<line class="st1" x1="-23.3" y1="-69.4" x2="-26.5" y2="-69.4"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -67.7266)" class="st2 st3">5.8</text>
+		</g>
+		<g transform="translate(0,187.16666666666669)">
+			<line class="st1" x1="-23.3" y1="-52" x2="-26.5" y2="-52"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -50.3044)" class="st2 st3">6.0</text>
+		</g>
+		<g transform="translate(0,149.83333333333331)">
+			<line class="st1" x1="-23.3" y1="-34.6" x2="-26.5" y2="-34.6"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -32.8822)" class="st2 st3">6.2</text>
+		</g>
+		<g transform="translate(0,112.49999999999991)">
+			<line class="st1" x1="-23.3" y1="-17.2" x2="-26.5" y2="-17.2"/>
+			<text transform="matrix(1 0 0 1 -35.5469 -15.46)" class="st2 st3">6.4</text>
+		</g>
+		<g transform="translate(0,75.16666666666671)">
+			<line class="st1" x1="-23.3" y1="0.3" x2="-26.5" y2="0.3"/>
+			<text transform="matrix(1 0 0 1 -35.5469 1.9622)" class="st2 st3">6.6</text>
+		</g>
+		<g transform="translate(0,37.833333333333385)">
+			<line class="st1" x1="-23.3" y1="17.7" x2="-26.5" y2="17.7"/>
+			<text transform="matrix(1 0 0 1 -35.5469 19.3844)" class="st2 st3">6.8</text>
+		</g>
+		<g transform="translate(0,0.5)">
+			<line class="st1" x1="-23.3" y1="35.1" x2="-26.5" y2="35.1"/>
+			<text transform="matrix(1 0 0 1 -35.5469 36.8066)" class="st2 st3">7.0</text>
+		</g>
+		<text transform="matrix(1 0 0 1 -21.1997 40.8242)" class="st4 st5 st6">nota_proyecto</text>
+	</g>
+	<g id="x_axis" transform="translate(0,560)">
+		<path class="st1" d="M-23.1-222.8v-2.9h768v2.9"/>
+		<g transform="translate(120.5,0)">
+			<line class="st1" x1="-79.6" y1="-226" x2="-79.6" y2="-222.8"/>
+			<text transform="matrix(1 0 0 1 -155.2493 -214.4432)" class="st2 st7">Diseñadora con mención en Visualidad y Medios</text>
+		</g>
+		<g transform="translate(360.5,0)">
+			<line class="st1" x1="-191.6" y1="-226" x2="-191.6" y2="-222.8"/>
+			<text transform="matrix(1 0 0 1 -209.4666 -207.2178)" class="st2 st7">Diseñadora</text>
+		</g>
+		<g transform="translate(600.5,0)">
+			<line class="st1" x1="-303.6" y1="-226" x2="-303.6" y2="-222.8"/>
+			<text transform="matrix(1 0 0 1 -373.4041 -217.4131)" class="st2 st7">Diseñador con mención Industrial y Servicios</text>
+		</g>
+		<g transform="translate(840.5,0)">
+			<line class="st1" x1="-415.6" y1="-226" x2="-415.6" y2="-222.8"/>
+			<text transform="matrix(1 0 0 1 -487.3508 -205.1988)" class="st2 st7">Diseñadora con mención Industrial y Servicios</text>
+		</g>
+		<g transform="translate(1080.5,0)">
+			<line class="st1" x1="-527.6" y1="-226" x2="-527.6" y2="-222.8"/>
+			<text transform="matrix(1 0 0 1 -601.303 -214.5616)" class="st2 st7">Diseñador con mención en Visualidad y Medios</text>
+		</g>
+		<g transform="translate(1320.5,0)">
+			<line class="st1" x1="-639.6" y1="-226" x2="-639.6" y2="-222.8"/>
+			<text transform="matrix(1 0 0 1 -655.5198 -207.2178)" class="st2 st7">Diseñador</text>
+		</g>
+	</g>
+	<g id="boxplots">
+		<g>
+			<line class="st8" x1="40.7" y1="35.3" x2="40.7" y2="321.6"/>
+			<line class="st9" x1="35.3" y1="35.3" x2="46" y2="35.3"/>
+			<line class="st9" x1="35.3" y1="321.6" x2="46" y2="321.6"/>
+			<rect x="35.3" y="85.1" class="st10" width="10.7" height="94.6"/>
+			<line class="st11" x1="35.3" y1="134.9" x2="46" y2="134.9"/>
+			<circle class="st12" cx="40.7" cy="334" r="0.5"/>
+			<circle class="st12" cx="40.7" cy="334" r="0.5"/>
+		</g>
+		<g>
+			<line class="st13" x1="168.7" y1="35.3" x2="168.7" y2="284.2"/>
+			<line class="st14" x1="163.3" y1="35.3" x2="174" y2="35.3"/>
+			<line class="st14" x1="163.3" y1="284.2" x2="174" y2="284.2"/>
+			<rect x="163.3" y="70.2" class="st15" width="10.7" height="99.6"/>
+			<line class="st11" x1="163.3" y1="134.9" x2="174" y2="134.9"/>
+		</g>
+		<g>
+			<line class="st16" x1="296.7" y1="57.7" x2="296.7" y2="236.9"/>
+			<line class="st17" x1="291.3" y1="57.7" x2="302" y2="57.7"/>
+			<line class="st17" x1="291.3" y1="236.9" x2="302" y2="236.9"/>
+			<rect x="291.3" y="124.9" class="st18" width="10.7" height="44.8"/>
+			<line class="st11" x1="291.3" y1="144.8" x2="302" y2="144.8"/>
+			<circle class="st19" cx="296.7" cy="284.2" r="0.5"/>
+			<circle class="st19" cx="296.7" cy="55.2" r="0.5"/>
+		</g>
+		<g>
+			<line class="st20" x1="424.7" y1="35.3" x2="424.7" y2="334"/>
+			<line class="st21" x1="419.3" y1="35.3" x2="430" y2="35.3"/>
+			<line class="st21" x1="419.3" y1="334" x2="430" y2="334"/>
+			<rect x="419.3" y="70.2" class="st22" width="10.7" height="114.5"/>
+			<line class="st11" x1="419.3" y1="134.9" x2="430" y2="134.9"/>
+		</g>
+		<g>
+			<line class="st23" x1="552.7" y1="85.1" x2="552.7" y2="259.3"/>
+			<line class="st24" x1="547.3" y1="85.1" x2="558" y2="85.1"/>
+			<line class="st24" x1="547.3" y1="259.3" x2="558" y2="259.3"/>
+			<rect x="547.3" y="134.9" class="st25" width="10.7" height="49.8"/>
+			<line class="st11" x1="547.3" y1="154.8" x2="558" y2="154.8"/>
+			<circle class="st26" cx="552.7" cy="284.2" r="0.5"/>
+			<circle class="st26" cx="552.7" cy="284.2" r="0.5"/>
+			<circle class="st26" cx="552.7" cy="334" r="0.5"/>
+		</g>
+		<g>
+			<line class="st27" x1="680.7" y1="35.3" x2="680.7" y2="264.3"/>
+			<line class="st28" x1="675.3" y1="35.3" x2="686" y2="35.3"/>
+			<line class="st28" x1="675.3" y1="264.3" x2="686" y2="264.3"/>
+			<rect x="675.3" y="115" class="st29" width="10.7" height="69.7"/>
+			<line class="st11" x1="675.3" y1="134.9" x2="686" y2="134.9"/>
+		</g>
+	</g>
+	<g id="boxplots_00000179612203456209625710000000678484987787658402_">
+		<g>
+			<text transform="matrix(1 0 0 1 48.1338 35.3335)" class="st2 st3">7</text>
+			<text transform="matrix(1 0 0 1 48.1338 321.5557)" class="st2 st3">4.125</text>
+			<text transform="matrix(1 0 0 1 48.1338 134.8892)" class="st2 st3">6</text>
+			<text transform="matrix(1 0 0 1 22.8203 179.6895)" class="st2 st3">5.55</text>
+			<text transform="matrix(1 0 0 1 31.1191 85.1113)" class="st2 st3">6.5</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 176.1338 35.3335)" class="st2 st3">7</text>
+			<text transform="matrix(1 0 0 1 176.1338 284.2227)" class="st2 st3">4.5</text>
+			<text transform="matrix(1 0 0 1 176.1338 134.8892)" class="st2 st3">6</text>
+			<text transform="matrix(1 0 0 1 150.8198 169.7334)" class="st2 st3">5.65</text>
+			<text transform="matrix(1 0 0 1 156.1533 70.1777)" class="st2 st3">6.65</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 304.1338 57.7334)" class="st2 st3">6.774999999999999</text>
+			<text transform="matrix(1 0 0 1 304.1338 236.9336)" class="st2 st3">4.975000000000001</text>
+			<text transform="matrix(1 0 0 1 304.1338 144.8447)" class="st2 st3">5.9</text>
+			<text transform="matrix(1 0 0 1 278.8198 169.7334)" class="st2 st3">5.65</text>
+			<text transform="matrix(1 0 0 1 287.1196 124.9336)" class="st2 st3">6.1</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 432.1338 35.3335)" class="st2 st3">7</text>
+			<text transform="matrix(1 0 0 1 432.1338 334)" class="st2 st3">4</text>
+			<text transform="matrix(1 0 0 1 432.1338 134.8892)" class="st2 st3">6</text>
+			<text transform="matrix(1 0 0 1 409.7861 184.667)" class="st2 st3">5.5</text>
+			<text transform="matrix(1 0 0 1 412.1533 70.1777)" class="st2 st3">6.65</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 560.1338 85.1113)" class="st2 st3">6.5</text>
+			<text transform="matrix(1 0 0 1 560.1338 259.334)" class="st2 st3">4.75</text>
+			<text transform="matrix(1 0 0 1 560.1338 154.8003)" class="st2 st3">5.8</text>
+			<text transform="matrix(1 0 0 1 537.7861 184.667)" class="st2 st3">5.5</text>
+			<text transform="matrix(1 0 0 1 547.5674 134.8892)" class="st2 st3">6</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 688.1338 35.3335)" class="st2 st3">7</text>
+			<text transform="matrix(1 0 0 1 688.1338 264.3115)" class="st2 st3">4.7</text>
+			<text transform="matrix(1 0 0 1 688.1338 134.8892)" class="st2 st3">6</text>
+			<text transform="matrix(1 0 0 1 665.7861 184.667)" class="st2 st3">5.5</text>
+			<text transform="matrix(1 0 0 1 671.1191 114.978)" class="st2 st3">6.2</text>
+		</g>
+	</g>
+</g>
+</svg>
