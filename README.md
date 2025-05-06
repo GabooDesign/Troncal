@@ -10,3 +10,5 @@ Repositorio enfocado en el ramo troncal de Diseño y Visualización - FAU - Impa
 >https://gaboodesign.github.io/Troncal/Entregas/evaluacion-1/
 ### Entrega Sitio web de gráficos usando RawGraph
 >https://gaboodesign.github.io/Troncal/Entregas/RawGraph-1/index.html
+### Entrega propuesta para entregar a profesor guia:
+>https://gaboodesign.github.io/Troncal/Clases/Clase-9/profes.html
