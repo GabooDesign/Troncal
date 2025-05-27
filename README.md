@@ -15,3 +15,5 @@ Repositorio enfocado en el ramo troncal de Diseño y Visualización - FAU - Impa
 > https://gaboodesign.github.io/Troncal/Clases/Clase-9/profes.html
 ### Clase 10 (13 de Mayo) Corrección propuesta por el profesor asignado:
 > https://gaboodesign.github.io/Troncal/Clases/Clase-10/profes.html
+### Clase 11 (27 de Mayo) Corrección final usando como referencias trabajos de compañeros:
+> https://gaboodesign.github.io/Troncal/Clases/Clase-11/profes.html
