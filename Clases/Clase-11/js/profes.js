@@ -497,7 +497,7 @@ async function datos(criterio) {
     }
 }
 
-datos("Abud Carrillo, Jenny").catch((error) => console.error(error));
+datos("Dueñas Santander, Rodrigo").catch((error) => console.error(error));
 
 document.querySelectorAll("select")[0].addEventListener("change", (event) => {
     tabla.innerHTML = " ";
@@ -508,4 +508,10 @@ document.querySelectorAll("select")[0].addEventListener("change", (event) => {
     var notas = [];
     var notasPrevias = [];
     datos(event.target.value).catch((error) => console.error(error));
+    if(event.target.value == "Vielma Laguna, Mitzi"){
+        document.querySelector("#primera").classList.add("esconde");
+        document.querySelector("#segunda").classList.remove("esconde")
+    } else {
+        document.querySelector("#primera").classList.remove("esconde");
+        document.querySelector("#segunda").classList.add("esconde")    }
 });
