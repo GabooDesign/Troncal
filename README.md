@@ -1,6 +1,7 @@
 # Troncal
 Repositorio enfocado en el ramo troncal de Diseño y Visualización - FAU - Impartido por Profesor Felipe Cortez (faco)  
 > https://github.com/profesorfaco/troncal
+> https://github.com/disenouchile/titulo
 
 ## Clases  
 ### Clase 5 (8 de Abril 2025)  
