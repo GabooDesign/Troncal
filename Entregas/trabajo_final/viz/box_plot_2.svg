@@ -1,6 +1,7 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 410">
     <title>box_plot_2</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Nunito');
         tspan {
             white-space: pre;
         }
@@ -11,24 +12,24 @@
         .t1 {
             font-size: 11px;
             fill: #000000;
-            font-family: Helvetica, Arial, sans-serif;
+            font-family: "Nunito", Helvetica, Arial, sans-serif;
         }
         .t2 {
             font-size: 11px;
             fill: #000000;
-            font-family: Helvetica, Arial, sans-serif;
+            font-family: "Nunito", Helvetica, Arial, sans-serif;
         }
         .s3 {
             fill: #000000;
-            stroke: #e7298a;
+            stroke: #007e47;
             stroke-dasharray: 4;
         }
         .s4 {
-            fill: #e7298a;
-            stroke: #e7298a;
+            fill: #000000;
+            stroke: #007e47;
         }
         .s5 {
-            fill: #e7298a;
+            fill: #007e47;
         }
         .s6 {
             fill: #000000;
@@ -36,37 +37,37 @@
         }
         .s7 {
             fill: #000000;
-            stroke: #125389;
+            stroke: #007e47;
             stroke-width: 2;
         }
         .s8 {
             fill: #000000;
-            stroke: #7570b3;
+            stroke: #fed044;
             stroke-dasharray: 4;
         }
         .s9 {
             fill: #000000;
-            stroke: #7570b3;
+            stroke: #fed044;
         }
         .s10 {
-            fill: #7570b3;
+            fill: #fed044;
         }
         .s11 {
             fill: #000000;
-            stroke: #7570b3;
+            stroke: #fed044;
             stroke-width: 2;
         }
         .s12 {
             fill: #000000;
-            stroke: #1b9e77;
+            stroke: #004c93;
             stroke-dasharray: 4;
         }
         .s13 {
-            fill: #1b9e77;
-            stroke: #1b9e77;
+            fill: #000000;
+            stroke: #004c93;
         }
         .s14 {
-            fill: #1b9e77;
+            fill: #004c93;
         }
     </style>
     <g id="viz">
