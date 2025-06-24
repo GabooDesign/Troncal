@@ -3,6 +3,9 @@ Repositorio enfocado en el ramo troncal de Diseño y Visualización - FAU - Impa
 > https://github.com/profesorfaco/troncal  
 > https://github.com/disenouchile/titulo  
 
+## Entrega Final    
+> https://gaboodesign.github.io/Troncal/Entregas/trabajo_final/
+
 ## Clases  
 ### Clase 5 (8 de Abril 2025)  
 > https://gaboodesign.github.io/Troncal/Clases/Clase-5/
